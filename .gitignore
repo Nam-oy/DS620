@@ -1,0 +1,6 @@
+# Data (very large files)
+data/
+
+# OS / Editor
+.DS_Store
+
